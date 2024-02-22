@@ -13,29 +13,30 @@ In this example, the demographic data being used has been generated from the onl
 
 An example schema of each persons information is given below: 
 
-    Gender 	female
-    Title 	Miss
-    First name 	Idella
-    Last name 	Willms
-    Birth date 	1948-01-21
-    Social security number 	307-86-4743
-    Street address 	471 Nick Forest
-    Secondary address 	Apt. 759
-    Post code 	58594
-    City 	Nikolauschester
-    State 	Washington
-    Latitude 	11.955515
-    Longitude 	123.721276
-    Phone number 	+1 (979) 422-6955
-    Email 	emilia.dooley@baumbach.com
-    Credit card type 	Visa
-    Credit card number 	4485-2232-9776-4924
-    Credit card expiration date 	10/26
-    Iban 	GI73MULAV2Z48XR687F758A
-    Bank account number 	31448996
-    Swift bic number 	ZLVCILTT
-    Company 	Hoeger Group
-    Job title 	Brake Machine Setter 
+    gender TEXT,
+	title TEXT,
+	first_name TEXT,
+	last_name TEXT,
+	birth_date DATE,
+	social_security_number VARCHAR(11),
+	street_address TEXT,
+	secondary_address TEXT,	
+	post_code TEXT,
+	city TEXT,
+	state TEXT,
+	latitude TEXT,	
+	longitude TEXT,	
+	phone_number TEXT,	
+	email TEXT,	
+	credit_card_type TEXT,
+	credit_card_number TEXT,
+	credit_card_expiration_date TEXT,
+	iban TEXT,
+	bank_account_number TEXT,
+	swift_bic_number TEXT,
+	company TEXT,
+	job_title TEXT,
+	PRIMARY KEY (social_security_number)
 
 
 
