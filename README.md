@@ -12,29 +12,30 @@ DATA DESCRIPTION:
 In this example, the demographic data being used has been generated from the online source https://generate-random.org/person-identity-generator. 
 
 An example schema of each persons information is given below: 
-Gender 	female
-Title 	Miss
-First name 	Idella
-Last name 	Willms
-Birth date 	1948-01-21
-Social security number 	307-86-4743
-Street address 	471 Nick Forest
-Secondary address 	Apt. 759
-Post code 	58594
-City 	Nikolauschester
-State 	Washington
-Latitude 	11.955515
-Longitude 	123.721276
-Phone number 	+1 (979) 422-6955
-Email 	emilia.dooley@baumbach.com
-Credit card type 	Visa
-Credit card number 	4485-2232-9776-4924
-Credit card expiration date 	10/26
-Iban 	GI73MULAV2Z48XR687F758A
-Bank account number 	31448996
-Swift bic number 	ZLVCILTT
-Company 	Hoeger Group
-Job title 	Brake Machine Setter 
+
+    Gender 	female
+    Title 	Miss
+    First name 	Idella
+    Last name 	Willms
+    Birth date 	1948-01-21
+    Social security number 	307-86-4743
+    Street address 	471 Nick Forest
+    Secondary address 	Apt. 759
+    Post code 	58594
+    City 	Nikolauschester
+    State 	Washington
+    Latitude 	11.955515
+    Longitude 	123.721276
+    Phone number 	+1 (979) 422-6955
+    Email 	emilia.dooley@baumbach.com
+    Credit card type 	Visa
+    Credit card number 	4485-2232-9776-4924
+    Credit card expiration date 	10/26
+    Iban 	GI73MULAV2Z48XR687F758A
+    Bank account number 	31448996
+    Swift bic number 	ZLVCILTT
+    Company 	Hoeger Group
+    Job title 	Brake Machine Setter 
 
 
 
